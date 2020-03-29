@@ -1,0 +1,204 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Righteous');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Jua');
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+  background-color: #000000;
+  margin-top: 30px;
+}
+
+main {
+  width: 1000px;
+  margin: auto;
+}
+
+header {
+  background-image: url(Img/LXjPxu1.jpg);
+  width: 975px;
+  height: 525px;
+  border: groove 15px darkred;
+}
+
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  position: relative;
+  display: inline-block;
+  color: darkred;
+  background-color: #424351;
+  padding: 8px;
+  padding-right: 12px;
+  top: 400px;
+  font-family: 'Righteous', cursive;
+  font-size: 40px;
+  border-radius: 0px 20px 20px 0px;
+  box-shadow: 10px 10px 20px;
+}
+
+a {
+  color: darkred;
+}
+
+a.info {
+  color: black;
+}
+
+h2 {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+h3 {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 26px;
+}
+
+h4 {
+  margin-left: 10px;
+  margin-top: 15px;
+  font-size: 26px;
+}
+
+h5 {
+  margin-top: 15px;
+  margin-bottom: 40px;
+  font-family: 'Jua', sans-serif;
+  font-size: 35px;
+}
+
+div.uno {
+  margin-top: 20px;
+  border-radius: 30px;
+  border: solid 10px grey;
+  padding: 15px;
+  width: 955px;
+}
+
+div.dos {
+  padding: 15px;
+}
+
+div.reseñas {
+  padding: 15px;
+  margin-top: 10px;
+}
+
+div.doble {
+  column-count: 2;
+  column-rule-style: groove;
+  column-rule-width: 10px;
+  column-rule-color: darkred;
+  margin-top: 15px;
+}
+
+div {
+  text-align: justify;
+}
+
+div.tres {
+  display: inline-block;
+  height: 30px;
+  background-color: darkred;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 400px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+}
+
+div.cuatro {
+  background-color: grey;
+  padding: 20px;
+  padding-left: 30px;
+  color: darkred;
+  margin-bottom: 40px;
+  font-family: 'Righteous', cursive;
+  font-family: 'Permanent Marker', cursive;
+}
+
+div.volver {
+  display: inline-block;
+  height: 30px;
+  background-color: darkred;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-left: 463px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+}
+
+div.musica {
+  column-count: 2;
+  margin-left: 170px;
+  margin-bottom: 40px;
+  padding: 10px 20px 10px;
+  font-family: 'Jua', sans-serif;
+  font-size: 20px;
+}
+
+div.img {
+  background-color: darkred;
+  margin-bottom: 10px;
+  height: 240px;
+}
+
+span {
+  color: darkred;
+}
+
+img.uno {
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+img.dos {
+  width: 500px;
+  height: 230px;
+  margin-left: 270px;
+  margin-top: 5px;
+}
+
+table {
+  background-color: darkred;
+  color: black;
+  border-width: 5px;
+  border-color: grey;
+  border-style: solid;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+table td,
+table th {  
+  padding: 10px 15px;
+  border: 2px solid grey;
+}
+
+table tr.personajes {
+  background-color: darkred;
+  color: black;
+}
+
+iframe.video {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 300px;
+  width: 500px;
+}
+
