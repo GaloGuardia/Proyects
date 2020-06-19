@@ -1,0 +1,51 @@
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll.config
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.Business.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DTO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.Business.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DTO.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.csprojResolveAssemblyReference.cache
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DAO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll.config
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.Business.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.Business.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll.config
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas_GP1.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.Business.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DTO.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DAO.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.Business.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DTO.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\bin\TutuCanchas.DAO.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.csprojAssemblyReference.cache
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.csproj.CoreCompileInputs.cache
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.csproj.CopyComplete
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll.config
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas_GP1.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas_GP1.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas.Business.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas.DTO.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas.DAO.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas.Business.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas.DTO.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\bin\TutuCanchas.DAO.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.csprojAssemblyReference.cache
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.csproj.CopyComplete
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas_GP1\obj\Debug\TutuCanchas_GP1.pdb

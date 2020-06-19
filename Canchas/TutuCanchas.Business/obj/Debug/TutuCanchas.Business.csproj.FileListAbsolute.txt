@@ -1,0 +1,39 @@
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.csprojResolveAssemblyReference.cache
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.csprojAssemblyReference.cache
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.csproj.CoreCompileInputs.cache
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.csproj.CopyComplete
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\bin\Debug\TutuCanchas.Business.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\bin\Debug\TutuCanchas.DAO.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.csprojAssemblyReference.cache
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.csproj.CopyComplete
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.Business\obj\Debug\TutuCanchas.Business.pdb

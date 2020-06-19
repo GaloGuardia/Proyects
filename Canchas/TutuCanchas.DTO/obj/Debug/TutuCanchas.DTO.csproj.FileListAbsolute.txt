@@ -1,0 +1,18 @@
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP3 C#\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\Galo\Desktop\Programas\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csprojAssemblyReference.cache
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\galog\Desktop\Programas\C#\Canchas\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
