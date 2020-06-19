@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://ventasservice.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://ventasservice.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://ventasservice.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetArticulos">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetArticulosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetArticulosResult" type="tns:ArrayOfArticuloDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfArticuloDTO">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ArticuloDTO" nillable="true" type="tns:ArticuloDTO" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArticuloDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="PrecioVenta" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="PrecioCompra" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Stock" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Login">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contraseña" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoginResult" type="tns:ClienteDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ClienteDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Direccion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Telefono" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Email" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Registrarse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="nombre" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="direccion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="telefono" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="email" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contraseña" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegistrarseResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RegistrarseResult" type="tns:ClienteDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetArticulosByNombre">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="nombre" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetArticulosByNombreResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetArticulosByNombreResult" type="tns:ArrayOfArticuloDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ArticuloForCarrito">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ArticuloForCarritoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ArticuloForCarritoResult" type="tns:ArticuloDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Cabecera">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idCliente" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="fecha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CabeceraResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CabeceraResult" type="tns:VentasCabeceraDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="VentasCabeceraDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Fecha" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdCliente" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdVendedor" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observaciones" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Detalle">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idcabecera" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="idarticulo" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="precioventa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleResult" type="tns:VentasDetalleDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="VentasDetalleDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdVentaCabecera" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdArticulo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="PrecioUnitario" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Cantidad" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetArticulosSoapIn">
+    <wsdl:part name="parameters" element="tns:GetArticulos" />
+  </wsdl:message>
+  <wsdl:message name="GetArticulosSoapOut">
+    <wsdl:part name="parameters" element="tns:GetArticulosResponse" />
+  </wsdl:message>
+  <wsdl:message name="LoginSoapIn">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="LoginSoapOut">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarseSoapIn">
+    <wsdl:part name="parameters" element="tns:Registrarse" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarseSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarseResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetArticulosByNombreSoapIn">
+    <wsdl:part name="parameters" element="tns:GetArticulosByNombre" />
+  </wsdl:message>
+  <wsdl:message name="GetArticulosByNombreSoapOut">
+    <wsdl:part name="parameters" element="tns:GetArticulosByNombreResponse" />
+  </wsdl:message>
+  <wsdl:message name="ArticuloForCarritoSoapIn">
+    <wsdl:part name="parameters" element="tns:ArticuloForCarrito" />
+  </wsdl:message>
+  <wsdl:message name="ArticuloForCarritoSoapOut">
+    <wsdl:part name="parameters" element="tns:ArticuloForCarritoResponse" />
+  </wsdl:message>
+  <wsdl:message name="CabeceraSoapIn">
+    <wsdl:part name="parameters" element="tns:Cabecera" />
+  </wsdl:message>
+  <wsdl:message name="CabeceraSoapOut">
+    <wsdl:part name="parameters" element="tns:CabeceraResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleSoapIn">
+    <wsdl:part name="parameters" element="tns:Detalle" />
+  </wsdl:message>
+  <wsdl:message name="DetalleSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetArticulos">
+      <wsdl:input message="tns:GetArticulosSoapIn" />
+      <wsdl:output message="tns:GetArticulosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <wsdl:input message="tns:LoginSoapIn" />
+      <wsdl:output message="tns:LoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Registrarse">
+      <wsdl:input message="tns:RegistrarseSoapIn" />
+      <wsdl:output message="tns:RegistrarseSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetArticulosByNombre">
+      <wsdl:input message="tns:GetArticulosByNombreSoapIn" />
+      <wsdl:output message="tns:GetArticulosByNombreSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ArticuloForCarrito">
+      <wsdl:input message="tns:ArticuloForCarritoSoapIn" />
+      <wsdl:output message="tns:ArticuloForCarritoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Cabecera">
+      <wsdl:input message="tns:CabeceraSoapIn" />
+      <wsdl:output message="tns:CabeceraSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Detalle">
+      <wsdl:input message="tns:DetalleSoapIn" />
+      <wsdl:output message="tns:DetalleSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://ventasservice.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArticulos">
+      <soap:operation soapAction="http://ventasservice.org/GetArticulos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://ventasservice.org/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Registrarse">
+      <soap:operation soapAction="http://ventasservice.org/Registrarse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArticulosByNombre">
+      <soap:operation soapAction="http://ventasservice.org/GetArticulosByNombre" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ArticuloForCarrito">
+      <soap:operation soapAction="http://ventasservice.org/ArticuloForCarrito" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Cabecera">
+      <soap:operation soapAction="http://ventasservice.org/Cabecera" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Detalle">
+      <soap:operation soapAction="http://ventasservice.org/Detalle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://ventasservice.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArticulos">
+      <soap12:operation soapAction="http://ventasservice.org/GetArticulos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap12:operation soapAction="http://ventasservice.org/Login" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Registrarse">
+      <soap12:operation soapAction="http://ventasservice.org/Registrarse" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArticulosByNombre">
+      <soap12:operation soapAction="http://ventasservice.org/GetArticulosByNombre" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ArticuloForCarrito">
+      <soap12:operation soapAction="http://ventasservice.org/ArticuloForCarrito" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Cabecera">
+      <soap12:operation soapAction="http://ventasservice.org/Cabecera" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Detalle">
+      <soap12:operation soapAction="http://ventasservice.org/Detalle" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://localhost:49887/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://localhost:49887/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

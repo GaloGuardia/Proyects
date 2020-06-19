@@ -1,0 +1,49 @@
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojAssemblyReference.cache
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\Sistemas\Desktop\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojAssemblyReference.cache
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\Galo\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojAssemblyReference.cache
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\Sistemas\Desktop\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojAssemblyReference.cache
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb

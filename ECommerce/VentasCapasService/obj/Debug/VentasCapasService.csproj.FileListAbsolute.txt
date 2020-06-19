@@ -1,0 +1,10 @@
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\bin\VentasCapasService.dll.config
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\bin\VentasCapasService.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\bin\VentasCapasService.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\obj\Debug\VentasCapasService.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\obj\Debug\VentasCapasService.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\bin\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\bin\VentasCapas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\bin\VentasCapas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\bin\VentasCapas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapasService\obj\Debug\VentasCapasService.csprojResolveAssemblyReference.cache

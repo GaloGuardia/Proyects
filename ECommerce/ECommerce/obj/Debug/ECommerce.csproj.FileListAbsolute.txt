@@ -1,0 +1,25 @@
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\bin\ECommerce.dll.config
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\bin\ECommerce.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\bin\ECommerce.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\obj\Debug\ECommerce.pdb
+C:\Users\Galo\Desktop\TP ECommerce\ECommerce\bin\ECommerce.dll.config
+C:\Users\Galo\Desktop\TP ECommerce\ECommerce\bin\ECommerce.dll
+C:\Users\Galo\Desktop\TP ECommerce\ECommerce\bin\ECommerce.pdb
+C:\Users\Galo\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.csprojAssemblyReference.cache
+C:\Users\Galo\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\Galo\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Users\Galo\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.pdb
+C:\Users\Sistemas\Desktop\TP ECommerce\ECommerce\bin\ECommerce.dll.config
+C:\Users\Sistemas\Desktop\TP ECommerce\ECommerce\bin\ECommerce.dll
+C:\Users\Sistemas\Desktop\TP ECommerce\ECommerce\bin\ECommerce.pdb
+C:\Users\Sistemas\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.csprojAssemblyReference.cache
+C:\Users\Sistemas\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Users\Sistemas\Desktop\TP ECommerce\ECommerce\obj\Debug\ECommerce.pdb
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\ECommerce\bin\ECommerce.dll.config
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\ECommerce\bin\ECommerce.dll
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\ECommerce\bin\ECommerce.pdb
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\ECommerce\obj\Debug\ECommerce.csprojAssemblyReference.cache
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Users\galog\Desktop\Programas\C#\TP ECommerce\ECommerce\obj\Debug\ECommerce.pdb
